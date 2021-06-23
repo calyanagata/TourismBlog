@@ -4,12 +4,12 @@
 <b>Disclaimer</b>: the images inside this project are not mine and I use a package which called SweetAlert2 by Realrashid only for success alert. This is the resource of that package: https://github.com/realrashid/sweet-alert 
 
 Before running the web application, please run these commands:
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 After that you can start the usual commands like:
-php artisan migrate:fresh –seed
-php artisan serve
+- php artisan migrate:fresh –seed
+- php artisan serve
 
 For admin credential you can use ‘admin@gmail.com’ as email and ‘Admin123’ as password. For member/signed in user you can use email ‘john@gmail.com’ as email and ‘Password123’ as password. For another member’s data, I use Faker for Database Seeder.
 
